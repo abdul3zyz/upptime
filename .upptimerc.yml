@@ -15,7 +15,7 @@ sites:
     url: https://meet.deem.sa 
 
 status-website:
-  baseUrl: /repo # where "repo" is your repository name
+  baseUrl: /upptime # where "repo" is your repository name
   name: UPTIME
   # baseUrl: /your-repo-name
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
